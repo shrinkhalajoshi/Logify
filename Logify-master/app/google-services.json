@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246651493809",
+    "project_id": "fit-geek",
+    "storage_bucket": "fit-geek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246651493809:android:5d625438608e25d1a1f190",
+        "android_client_info": {
+          "package_name": "com.anuj.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246651493809-oo2krjc1fjd4qok6n07mv3ok9ospt4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYyZadaO8n8n5gWhIhwV-yIvH-gA0Oc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246651493809-oo2krjc1fjd4qok6n07mv3ok9ospt4r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

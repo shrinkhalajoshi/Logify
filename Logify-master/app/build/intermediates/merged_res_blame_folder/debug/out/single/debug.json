@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_register.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_user_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_241.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_baseline_email_241.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_progressstretching.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\progressstretching.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_email_icon.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\custom_email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_press2.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\press2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_dumbell_dashboard.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\dumbell_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_bench.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\bench.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_workout_progress.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_workout_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_dumbellimage.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\dumbellimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_weight_progress.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_weight_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_wc_24.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_baseline_wc_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_pullup.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\pullup.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_weighing.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\weighing.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_yellow_dashboard.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\yellow_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_brown_dashboard.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\brown_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_lateralraies.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\lateralraies.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_custombuttonregister.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\custombuttonregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_kctsplashscreen.gif.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\kctsplashscreen.gif"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_dialog.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_progress.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_track_set_class.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_track_set_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_bg.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_weightlist.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\weightlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_progressimage.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\progressimage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_blacklogset.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\blacklogset.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_log_weight.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_log_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_twitter_vector.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\twitter_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_fitgeek.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\fitgeek.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_progress_exercise_selector.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_progress_exercise_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_splashscreen_image.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\splashscreen_image.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_screensplash_gif.gif.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\screensplash_gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\font_quicksandfont.ttf.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\font\\quicksandfont.ttf"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_wieghing_scale.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\wieghing_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_track_sets.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_track_sets.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_google_vector.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\google_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook_vector1.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\facebook_vector1.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_squat.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\squat.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_press1.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\press1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_log_weight_bg.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\log_weight_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_vpn_key_241.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_key_241.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pull.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_pull.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_progress_dashboard.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\progress_dashboard.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_push.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_push.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_press.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\press.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_registerbg.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\registerbg.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_password_icon.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\custom_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_dumbellpress.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\dumbellpress.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_sumodeadlift.jpg.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\sumodeadlift.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\drawable_dumbell.png.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\drawable\\dumbell.png"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\anizr\\AndroidStudioProjects\\Signin\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    }
+]

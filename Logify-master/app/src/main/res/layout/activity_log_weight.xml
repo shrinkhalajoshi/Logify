@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LogWeight"
+    android:background="@drawable/log_weight_bg">
+
+    <TextView
+        android:id="@+id/textViewlogWeightHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Log Weight"
+        android:textColor="@color/white"
+        android:textSize="45dp"
+        android:fontFamily="sans-serif-condensed"/>
+
+    <EditText
+        android:id="@+id/editTextWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/textViewlogWeightHeading"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:background="@drawable/custom_input"
+        android:ems="10"
+        android:hint="Weight"
+        android:inputType="number"
+        android:textAlignment="center" />
+
+
+    <Button
+        android:id="@+id/btnSetWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextWeight"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/custombuttonregister"
+        android:text="Log" />
+
+    <TextView
+        android:id="@+id/textViewRecentWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnSetWeight"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Recent Weight"
+        android:textColor="@color/white" />
+</RelativeLayout>

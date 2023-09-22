@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sign in</string>
+
+    <string-array name="set_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+
+    <string-array name="exercise_array">
+        <item>sumoDeadlift</item>
+        <item>benchPress</item>
+        <item>squat</item>
+        <item>pullup</item>
+        <item>inclinePress</item>
+        <item>dumbbellPress</item>
+        <item>lateralRaises</item>
+        <item></item>
+
+    </string-array>
+
+</resources>

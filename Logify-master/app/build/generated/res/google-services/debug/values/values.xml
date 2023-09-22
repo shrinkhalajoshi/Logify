@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">246651493809-oo2krjc1fjd4qok6n07mv3ok9ospt4r2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">246651493809</string>
+    <string name="google_api_key" translatable="false">AIzaSyDxYyZadaO8n8n5gWhIhwV-yIvH-gA0Oc8</string>
+    <string name="google_app_id" translatable="false">1:246651493809:android:5d625438608e25d1a1f190</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDxYyZadaO8n8n5gWhIhwV-yIvH-gA0Oc8</string>
+    <string name="google_storage_bucket" translatable="false">fit-geek.appspot.com</string>
+    <string name="project_id" translatable="false">fit-geek</string>
+</resources>
